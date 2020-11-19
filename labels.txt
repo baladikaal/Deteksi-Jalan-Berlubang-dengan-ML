@@ -1,0 +1,3 @@
+jalan_lubang
+jalan_retak
+jalan_tidak_rusak
